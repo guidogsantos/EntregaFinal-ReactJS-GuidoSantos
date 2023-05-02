@@ -41,6 +41,7 @@ header .containerItemList ul{
 }
 
 header .containerItemList ul li{
+    text-decoration: none;
     margin: 10px;
     color: red;
     font-weight: bold;
