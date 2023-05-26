@@ -23,7 +23,9 @@ const CardItem = (props) => {
                     />
                 </Link>
 
-                <ButtonAddCart />
+                <ButtonAddCart 
+                    id={props.id}
+                />
             </div>
         </div>
     )
